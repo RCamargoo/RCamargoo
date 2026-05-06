@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, meu nome é Rafael Camargo!
 
-<!--
-**RCamargoo/RCamargoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻Atualmente sou estudadete do curso Ténico em Desenvolvimento de Sistemas no SENAI
+---
 
-Here are some ideas to get you started:
+### Diciplinas cursadas:
+- Lógica de Programação e Algoritmos;
+- Arquitetura de Rede com  IoT;
+- Sistemas Operacionais;
+- Levantamento de Requisitos.
+  
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Linguagens Estudadas:
+   - python;
+   - c++.
+
+     ---
+
+     ## Meu sonho é:
+
+     - senac (gastronomia) aguas de são pedro 
+
+  
