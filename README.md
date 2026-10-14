@@ -7,13 +7,21 @@
 - Lógica de Programação e Algoritmos;
 - Arquitetura de Rede com  IoT;
 - Sistemas Operacionais;
-- Levantamento de Requisitos.
+- Levantamento de Requisitos;
+- PROG. BACK-END 1
+- PROJETOS DE SOFTER
+- LINGUAGEM DE MARCAÇÃO (HTML, CSS)
+- BANCO DE DADOS
+
   
   ---
 
   ## Linguagens Estudadas:
    - python;
+   - PHP
    - c++.
+   - HTML
+   - CSS
 
      ---
 
